@@ -8,12 +8,15 @@ TradeMap helps users to check price of stocks in real time. It will also help fe
 ![alt text](https://github.com/HHasib/TradeMap/blob/main/HasnatHasib_TradeMap.png?raw=true)
 
 ## Project relevance
-For this project it will have an object oriented design. This will enable us to create each object in a very elegant way. For example, we can create an object for trading where there will be methods for buying the stock or selling the stock. There will also be an object for the alert system that will be implemented within the trading object for automated trading. For each method we will be writing unit tests and follow the TDD method to minimize bugs within the entire code. The TDD is a very good approach for a big program like this. The UML also helps others understand how the code works. It makes is easiter for a non-coder to understand the program. For version control git will be used to keep track of each updates made to the code. Different teammates can work on different branches for different components of the code and then can finally merge to the main (or master) branch.
+For this project it will have an object oriented design. This will enable us to create each object in a very elegant way. For example, we can create an object for trading where there will be methods for buying the stock or selling the stock. There will also be an object for the alert system that will be implemented within the trading object for automated trading. For each method we will be writing unit tests and follow the TDD method to minimize bugs within the entire code. The TDD is a very good approach for a big program like this. The UML also helps others understand how the code works. It makes is easier for a non-coder to understand the program. For version control git will be used to keep track of each update made to the code. Different teammates can work on different branches for different components of the code and then can finally merge to the main (or master) branch.
 
 ## Conceptual design
 For this project we will be creating the full program from scratch. Although the program is being created from scratch, we will be using a lot of python libraries which will make it very easy for us to complete this program. 
 
 ## Background 
+
+Link to working repository on GitHub: https://github.com/HHasib/TradeMap
+
 **Running**
 To run the program, go to the TradeMap folder in your terminal and type: 
   python3 tradeMapMain.py
